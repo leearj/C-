@@ -1,6 +1,7 @@
 # Project Description
 
-  - EX1:	HelloWorld
+  - EX1:	
+  	HelloWorld
 	AgeArithmatic (basic IO)
   
   - EX2: 
